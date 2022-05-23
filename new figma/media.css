@@ -1,0 +1,201 @@
+@media (max-width: 1250px) {
+    .divimg{
+        height:800px ;
+        max-width:900px;
+    }
+}
+@media (max-width: 1190px) {
+    .bolim3section3{
+        max-width: 450px;
+        margin:50px 7px;
+        }
+        .bolim3 img{
+            width: 400px;
+        
+        }
+        .p1s3{
+            font-size: 45px;
+            margin: 40px;
+            }
+
+}
+
+@media (max-width: 1070px) {
+.bolim1 img{
+    width: 400px;
+
+}
+.p1{
+    font-size: 45px;
+    margin: 40px;
+    }
+    .bolim1section2{
+        max-width: 350px;
+        margin: 0 10px;
+        }
+        .bolim3section3{
+            max-width: 313px;
+            margin: 0 10px;
+            }
+        
+}
+
+
+@media (max-width: 900px) {
+    #discoverp{
+        font-size: 50px;
+    }
+    .divimg{
+        max-width: 500px;
+    }
+    .p1teg{
+        font-size: 40px;
+        margin: 30px;
+        text-align: center;
+    }
+    .p1div{
+        max-width: 500px;
+    }
+    .p2div{
+        margin: 25px ;
+        max-width: 700px;
+      
+    }
+}
+@media (max-width: 852px) {
+    .bolim1section2{
+        max-width: 350px;
+        margin: 50px 10px;
+        }
+        .bolim3section3{
+            max-width: 350px;
+            margin: 50px 10px;
+            }
+        .bolim1 img{
+            width: 500px;
+            
+            }
+            .p1{
+                font-size: 60px;
+                }
+                .section2{
+                    height: 850px;
+                }
+                .section{
+   
+                    padding: 30px 0;
+                 }
+}
+@media (max-width:650px) {
+    .bolim1section2{
+        margin: 0 10px;
+        }
+        .get{
+           
+            width: 180px; 
+            height: 40px;
+            
+            margin-left: 12px;
+        }
+}
+
+@media (max-width:630px) {
+    .ona{
+        flex-direction: column-reverse;
+        justify-content: center;
+        width: 100%;
+    
+    }
+    .bolim1section2{
+        max-width: 450px;
+        margin: 0 10px;
+        margin-top: -50px;
+        }
+        .bolim3section3{
+            max-width: 450px;
+            margin: 0 10px;
+            margin-top: -250px;
+            margin-bottom: 50px;
+            }
+    .section{
+        padding: 50px 0;
+     }
+    .bolim1 img{
+        width: 300px;
+        margin-bottom: -50px;
+        }
+        .bolim3 img{
+            width: 300px;
+            
+            }
+    .p1{
+        font-size: 40px;
+    }
+    #discoverp{
+   margin-top: 30px;
+        font-size: 30px;
+    }
+    .brand{
+       margin-top: 50px;
+       
+        transform:rotate(0deg);
+    }
+    .markaziydiv{
+        margin-top: 200px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .hr{
+        margin-top: 200px;
+    }
+    .qator1bolim2{
+       margin: 20px 0;
+        
+    
+    }
+    footer{
+        height: 120vh;
+    }
+    
+}
+@media (max-width:550px) {
+.divimg{
+    max-width: 300px;
+    height: 500px;
+}
+.p2teg{
+    font-size: 12px;
+}
+.bormo{
+    
+    margin-bottom: 15px;
+}
+.p1div{
+    max-width: 250px;
+    height: 60px;
+    
+}
+.p1teg{
+    font-size: 25px;
+    margin: 15px;
+}
+.p2div{
+    margin: 15px ;
+    max-width: 280px;
+}
+}
+@media (max-width:500px) {
+    .spanlar{
+        display: block;
+    }
+    ul{
+        display:none;
+    }
+}
+@media (max-width:350px) {
+    footer{
+        height: 150vh;
+    }
+}
